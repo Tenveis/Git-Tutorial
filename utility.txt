@@ -4,4 +4,4 @@ i have changed but not ready to commit.
 
 i added new line.
 I changed after staged.
-
+Compare staging area with commit.
