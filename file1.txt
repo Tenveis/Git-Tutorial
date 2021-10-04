@@ -1,0 +1,4 @@
+first line just after creating this file.
+second line after upadting gitignore with file1.txt
+Third line after untracking the file.
+fourth line working tree clean even after adding 3rd line.
